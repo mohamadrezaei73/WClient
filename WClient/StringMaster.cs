@@ -37,7 +37,7 @@ namespace WClient
                     token = token.Replace(flag, "");
                 }
                 else { break; }
-
+                //salam
             }
             return Alltg;
 
